@@ -19,11 +19,15 @@ Camera → Face Detection → Preprocessing → CNN Model → Emotion Prediction
 - NumPy (Data Processing)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+Note- I have used a virtual enivironment for running this project .
 ## How to Run
 
 1. Clone the repository:
 ```bashd
-Note- I have used a virtual enivironment for running this project .
 git clone https://github.com/your-username/emotion-detector.git
 cd emotion-detector
+
+2. Install dependencies
+
+3.Run the project
+python src/main.py
